@@ -34,8 +34,8 @@ A mobile mentorship app designed to make finding mentors and mentees effortless 
 **Languages:** Python, Java, JavaScript, TypeScript, Bash  
 **Frameworks:** React.js, Flask  
 **Databases:** PostgreSQL, MySQL, SQL  
-**Cloud & DevOps:** AWS
-**AI/ML Tools:** LangChain, Azure OpenAI
+**Cloud & DevOps:** AWS  
+**AI/ML Tools:** LangChain, Azure OpenAI  
 
 ---
 
