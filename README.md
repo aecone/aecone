@@ -2,9 +2,9 @@
 
 I'm an aspiring software engineer passionate about building impactful programs for communities.
 
-🎓 Recent Rutgers grad in Computer Science 
-💼 Software Engineer at **Capital One**
-🎬 Fun fact: I love filmmaking. Check out my [work](https://andefilm.com)!
+🎓 Recent Rutgers grad in Computer Science  
+💼 Software Engineer at **Capital One**   
+🎬 Fun fact: I love filmmaking. Check out my [work](https://andefilm.com)!  
 
 ---
 
