@@ -2,8 +2,8 @@
 
 I'm an aspiring software engineer passionate about building impactful programs for communities.
 
-🎓 Undergrad student majoring in Computer Science (GPA: 3.9)  
-💼 Previously Software Engineer Intern at **Capital One** (Summer 2025)  
+🎓 Recent Rutgers grad in Computer Science 
+💼 Software Engineer at **Capital One**
 🎬 Fun fact: I love filmmaking. Check out my [work](https://andefilm.com)!
 
 ---
