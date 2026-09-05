@@ -1,6 +1,6 @@
 ## ⛄ Hi! I'm Andrea.
 
-I'm an aspiring software engineer passionate about building impactful programs for communities.
+I'm a software engineer passionate about building impactful programs for communities.
 
 🎓 Recent Rutgers grad in Computer Science  
 💼 Software Engineer at **Capital One**   
